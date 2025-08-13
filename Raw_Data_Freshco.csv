@@ -1,0 +1,401 @@
+order_id,order_date,product_id,product_name,category,unit_price,quantity,total_price,customer_id,state,payment_method,order_status,rating
+1001,2023-04-13,108,Rice Basmati 5kg,Grocery,80.0,2,160.0,2015,Gujarat,NetBanking,Delivered,5.0
+1002,2023-04-17,110,Mineral Water 1.5L,Beverages,240.0,2,480.0,2021,Tamil Nadu,Cash,Delivered,5.0
+1003,2024-09-06,101,Whole Wheat Flour 1kg,Grocery,300.0,1,300.0,2075,Gujarat,Cash,Delivered,4.0
+1004,2024-04-03,104,Olive Oil 750ml,Grocery,200.0,2,400.0,2100,Tamil Nadu,Credit Card,Cancelled,5.0
+1005,2025-05-21,102,Fresh Milk 1L,Dairy,240.0,1,240.0,2150,Kerala,Credit Card,Delivered,2.0
+1006,2023-11-05,103,Brown Sugar 500g,Grocery,50.0,2,100.0,2158,Karnataka,Credit Card,Delivered,3.0
+1007,2025-03-16,106,Toothpaste 100g,Personal Care,60.0,2,120.0,2021,Delhi,NetBanking,Delivered,3.0
+1008,2023-06-10,107,Eggs 12pcs,Dairy,360.0,3,1080.0,2089,Kerala,Debit Card,Delivered,4.0
+1009,2024-07-14,108,Rice Basmati 5kg,Grocery,300.0,2,600.0,2188,Kerala,UPI,Delivered,5.0
+1010,2025-02-21,103,Brown Sugar 500g,Grocery,60.0,2,120.0,2055,Kerala,NetBanking,Delivered,5.0
+1011,2023-09-01,103,Brown Sugar 500g,Grocery,250.0,1,250.0,2051,Delhi,UPI,Delivered,5.0
+1012,2024-10-08,102,Fresh Milk 1L,Dairy,120.0,1,120.0,2167,Gujarat,UPI,Delivered,3.0
+1013,2023-10-01,103,Brown Sugar 500g,Grocery,80.0,1,80.0,2060,Gujarat,NetBanking,Delivered,5.0
+1014,2023-01-14,105,Shampoo 250ml,Personal Care,60.0,1,60.0,2009,Gujarat,Debit Card,Delayed,5.0
+1015,2023-12-12,101,Whole Wheat Flour 1kg,Grocery,100.0,1,100.0,2084,Karnataka,UPI,Delivered,3.0
+1016,2023-04-02,105,Shampoo 250ml,Personal Care,180.0,2,360.0,2008,Karnataka,Cash,Delivered,3.0
+1017,2025-07-31,108,Rice Basmati 5kg,Grocery,60.0,3,180.0,2081,Tamil Nadu,Debit Card,Delivered,4.0
+1018,2025-07-20,106,Toothpaste 100g,Personal Care,60.0,2,120.0,2002,Gujarat,Cash,Delivered,5.0
+1019,2024-01-25,107,Eggs 12pcs,Dairy,144.0,1,144.0,2004,Gujarat,UPI,Delivered,4.0
+1020,2025-04-01,105,Shampoo 250ml,Personal Care,60.0,1,60.0,2044,Gujarat,NetBanking,Delivered,4.0
+1021,2023-06-11,109,Chocolates 200g,Snacks,360.0,3,1080.0,2014,Gujarat,Cash,Delivered,5.0
+1022,2025-05-12,110,Mineral Water 1.5L,Beverages,240.0,3,720.0,2190,Delhi,Cash,Delivered,4.0
+1023,2023-10-23,105,Shampoo 250ml,Personal Care,120.0,2,240.0,2082,Delhi,Credit Card,Delivered,5.0
+1024,2025-05-28,106,Toothpaste 100g,Personal Care,120.0,1,120.0,2188,Gujarat,UPI,Delivered,5.0
+1025,2024-01-15,104,Olive Oil 750ml,Grocery,250.0,2,500.0,2015,Delhi,NetBanking,Delivered,5.0
+1026,2025-03-23,103,Brown Sugar 500g,Grocery,40.0,1,40.0,2071,Karnataka,Cash,Delayed,4.0
+1027,2024-06-04,101,Whole Wheat Flour 1kg,Grocery,200.0,1,200.0,2136,Maharashtra,UPI,Delivered,5.0
+1028,2024-04-16,106,Toothpaste 100g,Personal Care,72.0,1,72.0,2136,Karnataka,Credit Card,Delivered,3.0
+1029,2024-11-05,105,Shampoo 250ml,Personal Care,72.0,1,72.0,2123,Maharashtra,Debit Card,Delivered,
+1030,2025-02-11,110,Mineral Water 1.5L,Beverages,360.0,4,1440.0,2041,Maharashtra,UPI,Delivered,2.0
+1031,2023-01-28,106,Toothpaste 100g,Personal Care,180.0,1,180.0,2072,Maharashtra,UPI,Delivered,5.0
+1032,2025-02-18,109,Chocolates 200g,Snacks,60.0,1,60.0,2048,Kerala,UPI,Delayed,3.0
+1033,2024-05-17,110,Mineral Water 1.5L,Beverages,180.0,3,540.0,2037,Gujarat,NetBanking,Delivered,4.0
+1034,2023-04-09,105,Shampoo 250ml,Personal Care,240.0,3,720.0,2035,Gujarat,NetBanking,Delivered,5.0
+1035,2025-01-08,101,Whole Wheat Flour 1kg,Grocery,100.0,4,400.0,2131,Karnataka,Debit Card,Delivered,2.0
+1036,2025-02-07,102,Fresh Milk 1L,Dairy,120.0,1,120.0,2142,Kerala,Debit Card,Delivered,5.0
+1037,2025-05-20,110,Mineral Water 1.5L,Beverages,300.0,4,1200.0,2015,Tamil Nadu,Cash,Cancelled,2.0
+1038,2025-05-07,107,Eggs 12pcs,Dairy,360.0,2,720.0,2179,Gujarat,UPI,Delivered,4.0
+1039,2024-07-28,105,Shampoo 250ml,Personal Care,180.0,1,180.0,2052,Kerala,Credit Card,Delivered,3.0
+1040,2023-04-06,105,Shampoo 250ml,Personal Care,96.0,3,288.0,2151,Delhi,Debit Card,Delivered,5.0
+1041,2023-08-19,109,Chocolates 200g,Snacks,96.0,2,192.0,2160,Maharashtra,UPI,Cancelled,4.0
+1042,2025-04-18,108,Rice Basmati 5kg,Grocery,60.0,3,180.0,2028,Kerala,NetBanking,Delivered,1.0
+1043,2024-07-31,102,Fresh Milk 1L,Dairy,360.0,2,720.0,2062,Maharashtra,NetBanking,Delivered,5.0
+1044,2025-08-10,110,Mineral Water 1.5L,Beverages,120.0,3,360.0,2028,Karnataka,NetBanking,Delivered,5.0
+1045,2023-01-28,107,Eggs 12pcs,Dairy,96.0,3,288.0,2190,Maharashtra,NetBanking,Delivered,5.0
+1046,2023-11-27,106,Toothpaste 100g,Personal Care,360.0,4,1440.0,2092,Kerala,Credit Card,Delivered,3.0
+1047,2024-04-17,109,Chocolates 200g,Snacks,180.0,3,540.0,2129,Kerala,Credit Card,Delivered,4.0
+1048,2024-01-12,101,Whole Wheat Flour 1kg,Grocery,250.0,2,500.0,2003,Karnataka,UPI,Delivered,5.0
+1049,2023-12-25,102,Fresh Milk 1L,Dairy,144.0,1,144.0,2137,Gujarat,NetBanking,Delivered,5.0
+1050,2023-11-14,107,Eggs 12pcs,Dairy,120.0,1,120.0,2051,Kerala,Credit Card,Delivered,5.0
+1051,2023-08-22,102,Fresh Milk 1L,Dairy,240.0,4,960.0,2059,Karnataka,NetBanking,Delivered,5.0
+1052,2024-01-09,108,Rice Basmati 5kg,Grocery,200.0,1,200.0,2180,Delhi,NetBanking,Delivered,4.0
+1053,2023-04-23,103,Brown Sugar 500g,Grocery,40.0,1,40.0,2052,Gujarat,Credit Card,Cancelled,5.0
+1054,2023-09-25,108,Rice Basmati 5kg,Grocery,150.0,1,150.0,2131,Karnataka,Cash,Delivered,
+1055,2023-04-23,109,Chocolates 200g,Snacks,120.0,1,120.0,2184,Maharashtra,NetBanking,Delivered,4.0
+1056,2023-03-22,104,Olive Oil 750ml,Grocery,40.0,1,40.0,2130,Tamil Nadu,UPI,Delivered,4.0
+1057,2023-08-08,110,Mineral Water 1.5L,Beverages,144.0,4,576.0,2129,Maharashtra,NetBanking,Delivered,5.0
+1058,2024-02-07,108,Rice Basmati 5kg,Grocery,50.0,2,100.0,2172,Karnataka,Cash,Delivered,5.0
+1059,2024-12-30,109,Chocolates 200g,Snacks,144.0,4,576.0,2068,Delhi,Credit Card,Delivered,4.0
+1060,2024-03-14,102,Fresh Milk 1L,Dairy,240.0,1,240.0,2145,Maharashtra,UPI,Delivered,5.0
+1061,2025-02-05,107,Eggs 12pcs,Dairy,144.0,2,288.0,2116,Kerala,Credit Card,Cancelled,5.0
+1062,2024-09-01,109,Chocolates 200g,Snacks,144.0,3,432.0,2139,Delhi,NetBanking,Delivered,5.0
+1063,2024-05-25,107,Eggs 12pcs,Dairy,48.0,1,48.0,2124,Maharashtra,Debit Card,Delivered,4.0
+1064,2023-07-06,101,Whole Wheat Flour 1kg,Grocery,120.0,2,240.0,2003,Kerala,Debit Card,Delivered,5.0
+1065,2024-10-21,109,Chocolates 200g,Snacks,96.0,1,96.0,2090,Maharashtra,Debit Card,Delayed,4.0
+1066,2024-05-25,105,Shampoo 250ml,Personal Care,72.0,2,144.0,2096,Delhi,Debit Card,Delivered,3.0
+1067,2024-12-11,101,Whole Wheat Flour 1kg,Grocery,80.0,1,80.0,2161,Kerala,NetBanking,Delivered,4.0
+1068,2025-07-24,107,Eggs 12pcs,Dairy,180.0,1,180.0,2104,Karnataka,UPI,Delayed,2.0
+1069,2024-10-02,109,Chocolates 200g,Snacks,300.0,1,300.0,2178,Delhi,Credit Card,Delivered,4.0
+1070,2023-05-31,104,Olive Oil 750ml,Grocery,300.0,1,300.0,2007,Karnataka,Debit Card,Delivered,5.0
+1071,2025-02-02,101,Whole Wheat Flour 1kg,Grocery,300.0,1,300.0,2060,Kerala,Debit Card,Delivered,5.0
+1072,2025-05-30,105,Shampoo 250ml,Personal Care,60.0,1,60.0,2048,Tamil Nadu,NetBanking,Delivered,4.0
+1073,2023-09-11,101,Whole Wheat Flour 1kg,Grocery,100.0,2,200.0,2160,Delhi,NetBanking,Delivered,5.0
+1074,2023-01-09,107,Eggs 12pcs,Dairy,300.0,1,300.0,2147,Delhi,NetBanking,Cancelled,
+1075,2025-03-26,105,Shampoo 250ml,Personal Care,72.0,2,144.0,2152,Gujarat,Cash,Delivered,2.0
+1076,2023-02-23,102,Fresh Milk 1L,Dairy,240.0,1,240.0,2152,Gujarat,NetBanking,Delivered,5.0
+1077,2024-09-19,106,Toothpaste 100g,Personal Care,48.0,2,96.0,2166,Gujarat,UPI,Delivered,1.0
+1078,2023-04-14,108,Rice Basmati 5kg,Grocery,80.0,3,240.0,2112,Gujarat,Credit Card,Delivered,5.0
+1079,2024-05-24,103,Brown Sugar 500g,Grocery,250.0,1,250.0,2153,Delhi,Credit Card,Delivered,3.0
+1080,2025-05-10,105,Shampoo 250ml,Personal Care,60.0,3,180.0,2082,Karnataka,NetBanking,Delivered,5.0
+1081,2024-12-06,103,Brown Sugar 500g,Grocery,120.0,1,120.0,2189,Gujarat,Credit Card,Delivered,3.0
+1082,2024-11-11,102,Fresh Milk 1L,Dairy,96.0,1,96.0,2068,Karnataka,Cash,Delivered,3.0
+1083,2025-03-11,105,Shampoo 250ml,Personal Care,120.0,2,240.0,2128,Kerala,NetBanking,Delivered,5.0
+1084,2024-01-27,107,Eggs 12pcs,Dairy,180.0,1,180.0,2145,Karnataka,NetBanking,Delivered,1.0
+1085,2024-10-01,108,Rice Basmati 5kg,Grocery,40.0,2,80.0,2187,Delhi,Cash,Delayed,5.0
+1086,2025-06-01,108,Rice Basmati 5kg,Grocery,120.0,4,480.0,2022,Karnataka,UPI,Delivered,5.0
+1087,2025-01-19,104,Olive Oil 750ml,Grocery,120.0,3,360.0,2109,Maharashtra,Credit Card,Delivered,5.0
+1088,2024-07-16,101,Whole Wheat Flour 1kg,Grocery,120.0,1,120.0,2027,Kerala,UPI,Delayed,5.0
+1089,2023-08-14,104,Olive Oil 750ml,Grocery,100.0,3,300.0,2097,Tamil Nadu,UPI,Delivered,5.0
+1090,2023-10-11,105,Shampoo 250ml,Personal Care,48.0,2,96.0,2061,Kerala,Credit Card,Delivered,5.0
+1091,2025-03-26,103,Brown Sugar 500g,Grocery,60.0,2,120.0,2035,Karnataka,Debit Card,Delivered,3.0
+1092,2023-07-11,105,Shampoo 250ml,Personal Care,48.0,1,48.0,2172,Maharashtra,Debit Card,Delivered,3.0
+1093,2023-08-08,107,Eggs 12pcs,Dairy,120.0,3,360.0,2099,Delhi,UPI,Delivered,4.0
+1094,2025-06-10,108,Rice Basmati 5kg,Grocery,250.0,2,500.0,2024,Delhi,Credit Card,Delivered,5.0
+1095,2023-12-15,107,Eggs 12pcs,Dairy,48.0,3,144.0,2181,Kerala,Debit Card,Delivered,4.0
+1096,2024-08-29,105,Shampoo 250ml,Personal Care,72.0,2,144.0,2116,Delhi,UPI,Delivered,5.0
+1097,2023-07-10,102,Fresh Milk 1L,Dairy,120.0,4,480.0,2161,Kerala,Debit Card,Delayed,3.0
+1098,2023-09-13,104,Olive Oil 750ml,Grocery,60.0,1,60.0,2025,Gujarat,UPI,Delivered,4.0
+1099,2025-01-04,106,Toothpaste 100g,Personal Care,144.0,1,144.0,2067,Karnataka,Credit Card,Delivered,3.0
+1100,2025-05-21,105,Shampoo 250ml,Personal Care,240.0,1,240.0,2032,Delhi,Credit Card,Delivered,4.0
+1101,2025-07-31,104,Olive Oil 750ml,Grocery,120.0,4,480.0,2194,Delhi,NetBanking,Delivered,5.0
+1102,2024-09-30,105,Shampoo 250ml,Personal Care,360.0,1,360.0,2017,Kerala,Debit Card,Delivered,
+1103,2023-04-14,101,Whole Wheat Flour 1kg,Grocery,40.0,1,40.0,2043,Tamil Nadu,Debit Card,Cancelled,4.0
+1104,2023-09-03,105,Shampoo 250ml,Personal Care,180.0,2,360.0,2170,Kerala,Cash,Delivered,5.0
+1105,2025-01-28,101,Whole Wheat Flour 1kg,Grocery,300.0,1,300.0,2050,Delhi,UPI,Delivered,3.0
+1106,2025-07-09,101,Whole Wheat Flour 1kg,Grocery,200.0,2,400.0,2060,Gujarat,Cash,Delivered,4.0
+1107,2024-05-20,108,Rice Basmati 5kg,Grocery,150.0,1,150.0,2036,Karnataka,NetBanking,Delivered,5.0
+1108,2024-11-15,109,Chocolates 200g,Snacks,96.0,1,96.0,2008,Kerala,Cash,Delivered,
+1109,2024-05-26,101,Whole Wheat Flour 1kg,Grocery,60.0,4,240.0,2143,Karnataka,Debit Card,Delivered,
+1110,2023-04-02,108,Rice Basmati 5kg,Grocery,50.0,1,50.0,2032,Kerala,NetBanking,Delivered,4.0
+1111,2024-12-27,110,Mineral Water 1.5L,Beverages,144.0,1,144.0,2153,Tamil Nadu,Debit Card,Delivered,5.0
+1112,2024-11-28,101,Whole Wheat Flour 1kg,Grocery,120.0,1,120.0,2058,Tamil Nadu,Debit Card,Delivered,4.0
+1113,2023-12-08,109,Chocolates 200g,Snacks,48.0,2,96.0,2170,Tamil Nadu,Cash,Delayed,3.0
+1114,2025-04-17,110,Mineral Water 1.5L,Beverages,144.0,1,144.0,2188,Gujarat,Credit Card,Delayed,3.0
+1115,2024-09-04,104,Olive Oil 750ml,Grocery,40.0,2,80.0,2060,Tamil Nadu,UPI,Delivered,5.0
+1116,2024-09-11,104,Olive Oil 750ml,Grocery,100.0,4,400.0,2196,Kerala,NetBanking,Delivered,5.0
+1117,2025-02-12,107,Eggs 12pcs,Dairy,96.0,3,288.0,2047,Karnataka,Cash,Delivered,5.0
+1118,2025-05-16,109,Chocolates 200g,Snacks,180.0,2,360.0,2144,Gujarat,Credit Card,Delivered,4.0
+1119,2023-09-26,101,Whole Wheat Flour 1kg,Grocery,50.0,2,100.0,2106,Karnataka,Debit Card,Delivered,5.0
+1120,2024-10-31,110,Mineral Water 1.5L,Beverages,72.0,1,72.0,2120,Gujarat,Debit Card,Delivered,5.0
+1121,2025-04-10,110,Mineral Water 1.5L,Beverages,72.0,2,144.0,2058,Gujarat,UPI,Delivered,3.0
+1122,2025-08-08,107,Eggs 12pcs,Dairy,360.0,2,720.0,2117,Kerala,UPI,Delivered,5.0
+1123,2025-04-09,109,Chocolates 200g,Snacks,180.0,4,720.0,2137,Delhi,Cash,Delivered,5.0
+1124,2025-06-26,108,Rice Basmati 5kg,Grocery,100.0,1,100.0,2058,Karnataka,Credit Card,Delivered,3.0
+1125,2024-09-25,110,Mineral Water 1.5L,Beverages,48.0,4,192.0,2034,Maharashtra,Cash,Delivered,4.0
+1126,2023-04-06,107,Eggs 12pcs,Dairy,144.0,1,144.0,2117,Maharashtra,Credit Card,Delivered,5.0
+1127,2025-06-15,110,Mineral Water 1.5L,Beverages,180.0,4,720.0,2069,Karnataka,UPI,Delayed,5.0
+1128,2025-02-28,103,Brown Sugar 500g,Grocery,150.0,1,150.0,2076,Delhi,Credit Card,Delivered,4.0
+1129,2023-06-03,109,Chocolates 200g,Snacks,72.0,2,144.0,2086,Delhi,Debit Card,Delivered,5.0
+1130,2024-11-27,108,Rice Basmati 5kg,Grocery,100.0,4,400.0,2094,Tamil Nadu,Credit Card,Delivered,
+1131,2025-01-19,108,Rice Basmati 5kg,Grocery,80.0,2,160.0,2144,Tamil Nadu,Debit Card,Delivered,5.0
+1132,2023-08-06,107,Eggs 12pcs,Dairy,360.0,2,720.0,2039,Maharashtra,Cash,Delivered,4.0
+1133,2024-09-03,110,Mineral Water 1.5L,Beverages,48.0,3,144.0,2101,Delhi,UPI,Returned,5.0
+1134,2023-01-23,109,Chocolates 200g,Snacks,360.0,1,360.0,2069,Maharashtra,NetBanking,Delivered,4.0
+1135,2023-04-10,108,Rice Basmati 5kg,Grocery,50.0,2,100.0,2138,Kerala,Debit Card,Delivered,3.0
+1136,2025-01-31,109,Chocolates 200g,Snacks,72.0,1,72.0,2096,Gujarat,Cash,Delivered,4.0
+1137,2025-02-07,105,Shampoo 250ml,Personal Care,240.0,2,480.0,2004,Tamil Nadu,Debit Card,Delivered,4.0
+1138,2023-01-16,104,Olive Oil 750ml,Grocery,200.0,4,800.0,2002,Delhi,Debit Card,Delayed,2.0
+1139,2024-05-11,107,Eggs 12pcs,Dairy,96.0,2,192.0,2178,Tamil Nadu,Debit Card,Delivered,
+1140,2024-11-05,105,Shampoo 250ml,Personal Care,48.0,1,48.0,2189,Tamil Nadu,UPI,Delivered,5.0
+1141,2024-11-21,108,Rice Basmati 5kg,Grocery,100.0,2,200.0,2067,Karnataka,Debit Card,Delivered,4.0
+1142,2024-07-30,108,Rice Basmati 5kg,Grocery,40.0,1,40.0,2043,Delhi,Debit Card,Delivered,3.0
+1143,2024-07-09,107,Eggs 12pcs,Dairy,60.0,2,120.0,2035,Gujarat,Credit Card,Delivered,
+1144,2024-12-27,106,Toothpaste 100g,Personal Care,48.0,1,48.0,2008,Gujarat,Credit Card,Delivered,3.0
+1145,2024-08-27,108,Rice Basmati 5kg,Grocery,300.0,1,300.0,2090,Delhi,UPI,Delivered,5.0
+1146,2024-02-22,110,Mineral Water 1.5L,Beverages,72.0,1,72.0,2135,Kerala,Debit Card,Delivered,3.0
+1147,2023-07-15,102,Fresh Milk 1L,Dairy,360.0,2,720.0,2114,Delhi,UPI,Delivered,5.0
+1148,2024-05-07,104,Olive Oil 750ml,Grocery,200.0,2,400.0,2021,Karnataka,UPI,Delivered,4.0
+1149,2025-01-30,102,Fresh Milk 1L,Dairy,96.0,1,96.0,2101,Gujarat,UPI,Delivered,3.0
+1150,2024-04-01,106,Toothpaste 100g,Personal Care,240.0,1,240.0,2177,Kerala,NetBanking,Delivered,5.0
+1151,2023-04-09,107,Eggs 12pcs,Dairy,96.0,1,96.0,2096,Kerala,UPI,Delivered,4.0
+1152,2024-10-25,105,Shampoo 250ml,Personal Care,180.0,3,540.0,2037,Karnataka,Credit Card,Delivered,3.0
+1153,2025-02-18,103,Brown Sugar 500g,Grocery,40.0,4,160.0,2013,Tamil Nadu,UPI,Delivered,4.0
+1154,2023-10-06,102,Fresh Milk 1L,Dairy,300.0,1,300.0,2105,Tamil Nadu,Debit Card,Delivered,3.0
+1155,2025-03-08,107,Eggs 12pcs,Dairy,48.0,1,48.0,2062,Maharashtra,Cash,Delayed,5.0
+1156,2024-08-18,104,Olive Oil 750ml,Grocery,250.0,3,750.0,2141,Karnataka,Debit Card,Delivered,4.0
+1157,2024-11-29,104,Olive Oil 750ml,Grocery,60.0,1,60.0,2100,Maharashtra,NetBanking,Delivered,4.0
+1158,2024-01-31,103,Brown Sugar 500g,Grocery,250.0,1,250.0,2076,Gujarat,Debit Card,Delivered,5.0
+1159,2023-09-22,103,Brown Sugar 500g,Grocery,150.0,2,300.0,2128,Karnataka,UPI,Delivered,5.0
+1160,2024-07-17,110,Mineral Water 1.5L,Beverages,72.0,1,72.0,2111,Maharashtra,NetBanking,Delivered,3.0
+1161,2023-05-24,103,Brown Sugar 500g,Grocery,100.0,2,200.0,2099,Gujarat,Debit Card,Delivered,2.0
+1162,2024-01-31,105,Shampoo 250ml,Personal Care,300.0,2,600.0,2123,Maharashtra,Debit Card,Delivered,3.0
+1163,2024-04-13,107,Eggs 12pcs,Dairy,96.0,2,192.0,2151,Kerala,Cash,Delayed,1.0
+1164,2023-05-24,109,Chocolates 200g,Snacks,300.0,4,1200.0,2109,Tamil Nadu,Cash,Delivered,5.0
+1165,2024-11-23,108,Rice Basmati 5kg,Grocery,300.0,1,300.0,2167,Karnataka,UPI,Delivered,3.0
+1166,2024-02-02,103,Brown Sugar 500g,Grocery,300.0,2,600.0,2163,Gujarat,Credit Card,Delivered,3.0
+1167,2023-08-03,108,Rice Basmati 5kg,Grocery,50.0,4,200.0,2076,Maharashtra,Credit Card,Delivered,5.0
+1168,2023-01-09,105,Shampoo 250ml,Personal Care,360.0,1,360.0,2145,Gujarat,Cash,Delivered,5.0
+1169,2023-09-10,110,Mineral Water 1.5L,Beverages,144.0,4,576.0,2174,Gujarat,NetBanking,Delivered,5.0
+1170,2024-10-14,107,Eggs 12pcs,Dairy,240.0,1,240.0,2137,Gujarat,UPI,Delivered,4.0
+1171,2025-08-03,105,Shampoo 250ml,Personal Care,360.0,1,360.0,2005,Karnataka,Cash,Delivered,5.0
+1172,2023-01-29,103,Brown Sugar 500g,Grocery,100.0,3,300.0,2083,Kerala,Credit Card,Delivered,3.0
+1173,2024-10-09,106,Toothpaste 100g,Personal Care,48.0,3,144.0,2145,Delhi,UPI,Delivered,3.0
+1174,2024-05-25,109,Chocolates 200g,Snacks,180.0,1,180.0,2045,Kerala,NetBanking,Delayed,4.0
+1175,2023-05-12,108,Rice Basmati 5kg,Grocery,80.0,3,240.0,2159,Kerala,UPI,Delivered,5.0
+1176,2025-02-25,102,Fresh Milk 1L,Dairy,144.0,4,576.0,2091,Kerala,Debit Card,Delivered,5.0
+1177,2024-12-14,109,Chocolates 200g,Snacks,360.0,1,360.0,2039,Gujarat,UPI,Delivered,4.0
+1178,2023-05-06,110,Mineral Water 1.5L,Beverages,72.0,2,144.0,2141,Tamil Nadu,NetBanking,Delivered,5.0
+1179,2025-01-23,107,Eggs 12pcs,Dairy,360.0,2,720.0,2061,Maharashtra,UPI,Delivered,5.0
+1180,2025-06-13,102,Fresh Milk 1L,Dairy,300.0,4,1200.0,2001,Kerala,NetBanking,Delivered,5.0
+1181,2024-01-22,101,Whole Wheat Flour 1kg,Grocery,250.0,4,1000.0,2113,Karnataka,Credit Card,Delivered,5.0
+1182,2024-02-13,103,Brown Sugar 500g,Grocery,200.0,1,200.0,2166,Delhi,Debit Card,Delivered,5.0
+1183,2023-04-27,107,Eggs 12pcs,Dairy,144.0,1,144.0,2044,Kerala,Debit Card,Delivered,5.0
+1184,2024-11-15,103,Brown Sugar 500g,Grocery,100.0,3,300.0,2164,Delhi,NetBanking,Delivered,5.0
+1185,2023-08-15,101,Whole Wheat Flour 1kg,Grocery,60.0,2,120.0,2185,Maharashtra,Debit Card,Delivered,5.0
+1186,2024-02-06,105,Shampoo 250ml,Personal Care,300.0,1,300.0,2014,Gujarat,Credit Card,Delayed,5.0
+1187,2023-05-23,104,Olive Oil 750ml,Grocery,40.0,2,80.0,2054,Delhi,UPI,Delivered,5.0
+1188,2025-06-04,101,Whole Wheat Flour 1kg,Grocery,60.0,4,240.0,2185,Karnataka,Credit Card,Delivered,2.0
+1189,2023-01-12,108,Rice Basmati 5kg,Grocery,300.0,3,900.0,2152,Karnataka,UPI,Returned,5.0
+1190,2024-10-29,105,Shampoo 250ml,Personal Care,120.0,1,120.0,2092,Delhi,UPI,Delivered,5.0
+1191,2024-11-06,105,Shampoo 250ml,Personal Care,360.0,1,360.0,2060,Delhi,Debit Card,Delivered,5.0
+1192,2023-06-27,105,Shampoo 250ml,Personal Care,120.0,1,120.0,2192,Tamil Nadu,UPI,Delivered,5.0
+1193,2025-07-11,101,Whole Wheat Flour 1kg,Grocery,120.0,4,480.0,2145,Kerala,Cash,Delivered,4.0
+1194,2023-07-20,101,Whole Wheat Flour 1kg,Grocery,40.0,2,80.0,2157,Karnataka,Credit Card,Delivered,4.0
+1195,2025-06-27,110,Mineral Water 1.5L,Beverages,72.0,2,144.0,2134,Delhi,UPI,Delivered,5.0
+1196,2024-08-16,109,Chocolates 200g,Snacks,72.0,2,144.0,2047,Delhi,NetBanking,Delivered,5.0
+1197,2025-07-09,104,Olive Oil 750ml,Grocery,50.0,1,50.0,2056,Tamil Nadu,NetBanking,Delivered,
+1198,2025-03-08,104,Olive Oil 750ml,Grocery,50.0,1,50.0,2109,Delhi,Credit Card,Returned,5.0
+1199,2023-01-05,110,Mineral Water 1.5L,Beverages,180.0,1,180.0,2118,Delhi,NetBanking,Delivered,
+1200,2023-03-06,103,Brown Sugar 500g,Grocery,50.0,4,200.0,2177,Tamil Nadu,Debit Card,Delivered,5.0
+1201,2025-02-17,105,Shampoo 250ml,Personal Care,120.0,1,120.0,2063,Tamil Nadu,NetBanking,Delivered,4.0
+1202,2023-08-05,102,Fresh Milk 1L,Dairy,144.0,1,144.0,2027,Maharashtra,Credit Card,Delayed,5.0
+1203,2024-11-19,107,Eggs 12pcs,Dairy,48.0,1,48.0,2105,Karnataka,Cash,Delivered,4.0
+1204,2023-04-09,106,Toothpaste 100g,Personal Care,48.0,2,96.0,2055,Delhi,NetBanking,Delivered,5.0
+1205,2024-06-01,106,Toothpaste 100g,Personal Care,48.0,2,96.0,2095,Gujarat,Credit Card,Cancelled,5.0
+1206,2024-10-06,104,Olive Oil 750ml,Grocery,120.0,1,120.0,2181,Tamil Nadu,Credit Card,Delivered,5.0
+1207,2023-01-23,110,Mineral Water 1.5L,Beverages,120.0,2,240.0,2165,Karnataka,NetBanking,Delivered,1.0
+1208,2024-12-14,102,Fresh Milk 1L,Dairy,360.0,1,360.0,2145,Tamil Nadu,Debit Card,Delivered,5.0
+1209,2023-03-26,104,Olive Oil 750ml,Grocery,250.0,3,750.0,2001,Delhi,Debit Card,Delivered,5.0
+1210,2023-02-20,103,Brown Sugar 500g,Grocery,80.0,3,240.0,2193,Gujarat,Debit Card,Delivered,4.0
+1211,2025-05-30,101,Whole Wheat Flour 1kg,Grocery,200.0,1,200.0,2092,Delhi,NetBanking,Delivered,4.0
+1212,2023-04-05,105,Shampoo 250ml,Personal Care,240.0,4,960.0,2154,Delhi,NetBanking,Delayed,3.0
+1213,2023-09-07,101,Whole Wheat Flour 1kg,Grocery,50.0,3,150.0,2118,Maharashtra,UPI,Delivered,4.0
+1214,2025-02-09,101,Whole Wheat Flour 1kg,Grocery,50.0,2,100.0,2193,Maharashtra,Cash,Delivered,3.0
+1215,2023-02-23,106,Toothpaste 100g,Personal Care,120.0,3,360.0,2057,Karnataka,Credit Card,Delivered,3.0
+1216,2024-02-05,102,Fresh Milk 1L,Dairy,180.0,4,720.0,2085,Karnataka,UPI,Delivered,4.0
+1217,2025-06-28,103,Brown Sugar 500g,Grocery,50.0,1,50.0,2179,Maharashtra,Credit Card,Delivered,3.0
+1218,2023-04-13,104,Olive Oil 750ml,Grocery,120.0,2,240.0,2038,Delhi,Credit Card,Delivered,3.0
+1219,2023-11-02,106,Toothpaste 100g,Personal Care,60.0,1,60.0,2030,Maharashtra,Credit Card,Delivered,3.0
+1220,2023-12-01,109,Chocolates 200g,Snacks,72.0,4,288.0,2052,Tamil Nadu,NetBanking,Delivered,5.0
+1221,2023-09-06,104,Olive Oil 750ml,Grocery,120.0,1,120.0,2079,Karnataka,NetBanking,Delivered,5.0
+1222,2024-06-25,108,Rice Basmati 5kg,Grocery,150.0,1,150.0,2051,Maharashtra,Cash,Delivered,4.0
+1223,2023-03-22,101,Whole Wheat Flour 1kg,Grocery,100.0,2,200.0,2132,Karnataka,NetBanking,Delivered,2.0
+1224,2023-05-18,106,Toothpaste 100g,Personal Care,240.0,1,240.0,2074,Delhi,Credit Card,Delivered,3.0
+1225,2025-02-23,109,Chocolates 200g,Snacks,96.0,2,192.0,2034,Delhi,Cash,Delivered,4.0
+1226,2025-02-12,109,Chocolates 200g,Snacks,120.0,1,120.0,2126,Tamil Nadu,Debit Card,Delivered,2.0
+1227,2025-01-16,104,Olive Oil 750ml,Grocery,60.0,4,240.0,2151,Kerala,Cash,Delivered,3.0
+1228,2023-07-02,110,Mineral Water 1.5L,Beverages,144.0,2,288.0,2104,Delhi,NetBanking,Delivered,3.0
+1229,2025-06-18,102,Fresh Milk 1L,Dairy,240.0,1,240.0,2195,Delhi,Debit Card,Delivered,5.0
+1230,2025-05-13,107,Eggs 12pcs,Dairy,72.0,1,72.0,2093,Kerala,Credit Card,Delivered,3.0
+1231,2024-11-02,107,Eggs 12pcs,Dairy,60.0,2,120.0,2122,Gujarat,Cash,Delivered,5.0
+1232,2023-02-20,105,Shampoo 250ml,Personal Care,72.0,2,144.0,2005,Kerala,UPI,Delivered,4.0
+1233,2024-04-10,110,Mineral Water 1.5L,Beverages,360.0,2,720.0,2022,Tamil Nadu,NetBanking,Delivered,5.0
+1234,2024-02-09,102,Fresh Milk 1L,Dairy,144.0,1,144.0,2133,Gujarat,Debit Card,Delivered,3.0
+1235,2023-08-21,107,Eggs 12pcs,Dairy,360.0,3,1080.0,2034,Tamil Nadu,NetBanking,Delivered,3.0
+1236,2025-08-02,104,Olive Oil 750ml,Grocery,300.0,2,600.0,2155,Delhi,Debit Card,Returned,3.0
+1237,2023-03-14,106,Toothpaste 100g,Personal Care,360.0,1,360.0,2047,Delhi,NetBanking,Delivered,5.0
+1238,2023-05-01,109,Chocolates 200g,Snacks,144.0,4,576.0,2056,Maharashtra,NetBanking,Delivered,3.0
+1239,2023-12-16,108,Rice Basmati 5kg,Grocery,40.0,1,40.0,2036,Karnataka,Cash,Delivered,4.0
+1240,2023-09-14,102,Fresh Milk 1L,Dairy,240.0,1,240.0,2099,Delhi,Debit Card,Delivered,5.0
+1241,2023-09-10,110,Mineral Water 1.5L,Beverages,96.0,4,384.0,2047,Tamil Nadu,NetBanking,Delivered,4.0
+1242,2024-09-30,104,Olive Oil 750ml,Grocery,200.0,3,600.0,2014,Tamil Nadu,Cash,Delayed,5.0
+1243,2024-04-18,105,Shampoo 250ml,Personal Care,180.0,3,540.0,2130,Karnataka,UPI,Delivered,5.0
+1244,2023-12-31,110,Mineral Water 1.5L,Beverages,360.0,3,1080.0,2187,Gujarat,Cash,Delivered,
+1245,2023-11-08,104,Olive Oil 750ml,Grocery,60.0,4,240.0,2003,Maharashtra,NetBanking,Delivered,5.0
+1246,2024-09-14,102,Fresh Milk 1L,Dairy,180.0,3,540.0,2107,Gujarat,Credit Card,Delivered,4.0
+1247,2025-01-20,102,Fresh Milk 1L,Dairy,60.0,1,60.0,2038,Gujarat,Credit Card,Delivered,3.0
+1248,2025-01-08,110,Mineral Water 1.5L,Beverages,72.0,4,288.0,2192,Tamil Nadu,Debit Card,Delivered,5.0
+1249,2024-09-22,108,Rice Basmati 5kg,Grocery,100.0,2,200.0,2039,Maharashtra,Cash,Delivered,4.0
+1250,2025-08-10,110,Mineral Water 1.5L,Beverages,48.0,4,192.0,2086,Delhi,UPI,Delivered,5.0
+1251,2024-04-18,104,Olive Oil 750ml,Grocery,250.0,1,250.0,2013,Delhi,NetBanking,Returned,5.0
+1252,2023-07-31,110,Mineral Water 1.5L,Beverages,300.0,2,600.0,2138,Kerala,Cash,Delivered,5.0
+1253,2023-03-08,101,Whole Wheat Flour 1kg,Grocery,250.0,2,500.0,2146,Gujarat,Debit Card,Delivered,4.0
+1254,2023-04-21,102,Fresh Milk 1L,Dairy,96.0,4,384.0,2034,Delhi,Credit Card,Delivered,4.0
+1255,2024-09-14,108,Rice Basmati 5kg,Grocery,200.0,1,200.0,2083,Maharashtra,Credit Card,Delivered,3.0
+1256,2024-07-07,106,Toothpaste 100g,Personal Care,300.0,2,600.0,2006,Kerala,Debit Card,Delivered,
+1257,2024-11-22,102,Fresh Milk 1L,Dairy,360.0,1,360.0,2187,Gujarat,Credit Card,Delivered,5.0
+1258,2025-08-09,109,Chocolates 200g,Snacks,144.0,2,288.0,2121,Kerala,UPI,Delivered,5.0
+1259,2023-10-16,110,Mineral Water 1.5L,Beverages,120.0,3,360.0,2021,Karnataka,Debit Card,Delivered,3.0
+1260,2024-12-10,101,Whole Wheat Flour 1kg,Grocery,120.0,4,480.0,2112,Maharashtra,Cash,Delivered,4.0
+1261,2024-05-30,105,Shampoo 250ml,Personal Care,240.0,4,960.0,2137,Tamil Nadu,Debit Card,Returned,5.0
+1262,2025-01-28,110,Mineral Water 1.5L,Beverages,72.0,1,72.0,2031,Kerala,NetBanking,Delayed,5.0
+1263,2023-02-09,110,Mineral Water 1.5L,Beverages,120.0,2,240.0,2152,Delhi,UPI,Delivered,5.0
+1264,2023-08-11,108,Rice Basmati 5kg,Grocery,120.0,1,120.0,2075,Gujarat,NetBanking,Returned,5.0
+1265,2023-01-04,110,Mineral Water 1.5L,Beverages,144.0,3,432.0,2113,Gujarat,Cash,Delivered,4.0
+1266,2024-08-28,106,Toothpaste 100g,Personal Care,240.0,3,720.0,2179,Karnataka,Credit Card,Delivered,4.0
+1267,2024-07-27,110,Mineral Water 1.5L,Beverages,300.0,1,300.0,2079,Tamil Nadu,UPI,Delayed,5.0
+1268,2024-12-15,101,Whole Wheat Flour 1kg,Grocery,200.0,1,200.0,2179,Gujarat,Debit Card,Cancelled,
+1269,2023-06-22,108,Rice Basmati 5kg,Grocery,100.0,3,300.0,2154,Kerala,UPI,Delivered,4.0
+1270,2023-04-28,110,Mineral Water 1.5L,Beverages,96.0,1,96.0,2020,Gujarat,Credit Card,Delivered,3.0
+1271,2023-04-23,108,Rice Basmati 5kg,Grocery,40.0,1,40.0,2142,Delhi,Debit Card,Delivered,4.0
+1272,2023-11-16,104,Olive Oil 750ml,Grocery,120.0,2,240.0,2126,Karnataka,UPI,Delivered,5.0
+1273,2023-05-19,108,Rice Basmati 5kg,Grocery,80.0,2,160.0,2003,Tamil Nadu,NetBanking,Delivered,4.0
+1274,2024-11-03,110,Mineral Water 1.5L,Beverages,144.0,1,144.0,2010,Karnataka,Cash,Delivered,5.0
+1275,2023-09-18,106,Toothpaste 100g,Personal Care,180.0,1,180.0,2172,Kerala,Cash,Delivered,4.0
+1276,2025-06-16,107,Eggs 12pcs,Dairy,240.0,1,240.0,2084,Gujarat,Credit Card,Delivered,3.0
+1277,2023-11-17,110,Mineral Water 1.5L,Beverages,120.0,1,120.0,2017,Maharashtra,NetBanking,Delivered,3.0
+1278,2025-02-15,102,Fresh Milk 1L,Dairy,240.0,3,720.0,2163,Gujarat,Cash,Returned,4.0
+1279,2024-08-28,108,Rice Basmati 5kg,Grocery,40.0,2,80.0,2062,Gujarat,Cash,Delivered,4.0
+1280,2025-08-13,103,Brown Sugar 500g,Grocery,50.0,3,150.0,2117,Karnataka,Cash,Delivered,5.0
+1281,2024-01-11,102,Fresh Milk 1L,Dairy,300.0,1,300.0,2076,Maharashtra,Debit Card,Delivered,4.0
+1282,2024-06-30,103,Brown Sugar 500g,Grocery,40.0,3,120.0,2060,Kerala,Cash,Delivered,5.0
+1283,2025-04-11,103,Brown Sugar 500g,Grocery,200.0,1,200.0,2105,Delhi,UPI,Delivered,5.0
+1284,2023-08-17,102,Fresh Milk 1L,Dairy,72.0,2,144.0,2165,Maharashtra,Debit Card,Delivered,5.0
+1285,2023-01-05,105,Shampoo 250ml,Personal Care,72.0,1,72.0,2078,Gujarat,Cash,Delayed,
+1286,2024-02-14,101,Whole Wheat Flour 1kg,Grocery,80.0,1,80.0,2042,Gujarat,Debit Card,Delivered,3.0
+1287,2023-03-30,109,Chocolates 200g,Snacks,60.0,4,240.0,2104,Maharashtra,Credit Card,Delivered,1.0
+1288,2024-06-09,103,Brown Sugar 500g,Grocery,60.0,2,120.0,2166,Delhi,Debit Card,Delivered,2.0
+1289,2025-05-14,107,Eggs 12pcs,Dairy,180.0,4,720.0,2143,Gujarat,Cash,Delivered,3.0
+1290,2024-10-26,108,Rice Basmati 5kg,Grocery,40.0,1,40.0,2194,Karnataka,Cash,Delivered,4.0
+1291,2025-03-31,109,Chocolates 200g,Snacks,240.0,1,240.0,2039,Maharashtra,Credit Card,Delivered,4.0
+1292,2025-08-04,108,Rice Basmati 5kg,Grocery,120.0,3,360.0,2067,Delhi,Cash,Delivered,5.0
+1293,2024-01-26,103,Brown Sugar 500g,Grocery,60.0,1,60.0,2192,Delhi,Debit Card,Delivered,5.0
+1294,2024-05-14,108,Rice Basmati 5kg,Grocery,40.0,2,80.0,2155,Gujarat,UPI,Delivered,5.0
+1295,2024-02-24,106,Toothpaste 100g,Personal Care,144.0,1,144.0,2097,Tamil Nadu,Cash,Delivered,5.0
+1296,2024-02-15,101,Whole Wheat Flour 1kg,Grocery,150.0,1,150.0,2196,Maharashtra,NetBanking,Delivered,4.0
+1297,2024-08-20,105,Shampoo 250ml,Personal Care,60.0,1,60.0,2005,Karnataka,Credit Card,Delivered,
+1298,2024-09-26,108,Rice Basmati 5kg,Grocery,300.0,1,300.0,2118,Kerala,Credit Card,Delivered,4.0
+1299,2025-03-16,109,Chocolates 200g,Snacks,96.0,2,192.0,2180,Delhi,Cash,Delivered,5.0
+1300,2024-11-26,101,Whole Wheat Flour 1kg,Grocery,200.0,2,400.0,2157,Kerala,Debit Card,Returned,
+1301,2023-02-16,102,Fresh Milk 1L,Dairy,96.0,2,192.0,2173,Kerala,UPI,Delivered,4.0
+1302,2023-05-10,110,Mineral Water 1.5L,Beverages,72.0,1,72.0,2164,Kerala,Credit Card,Delivered,5.0
+1303,2023-10-19,103,Brown Sugar 500g,Grocery,300.0,1,300.0,2027,Delhi,Credit Card,Delivered,5.0
+1304,2023-03-10,102,Fresh Milk 1L,Dairy,96.0,1,96.0,2074,Gujarat,UPI,Delivered,3.0
+1305,2025-05-21,106,Toothpaste 100g,Personal Care,144.0,3,432.0,2023,Tamil Nadu,NetBanking,Delivered,5.0
+1306,2025-03-25,102,Fresh Milk 1L,Dairy,360.0,3,1080.0,2107,Delhi,NetBanking,Delivered,3.0
+1307,2024-01-31,108,Rice Basmati 5kg,Grocery,300.0,2,600.0,2104,Tamil Nadu,UPI,Delivered,4.0
+1308,2023-07-29,105,Shampoo 250ml,Personal Care,300.0,1,300.0,2111,Maharashtra,UPI,Delivered,3.0
+1309,2024-09-07,102,Fresh Milk 1L,Dairy,96.0,2,192.0,2133,Tamil Nadu,Debit Card,Delivered,5.0
+1310,2025-06-06,101,Whole Wheat Flour 1kg,Grocery,100.0,4,400.0,2106,Tamil Nadu,Debit Card,Delivered,4.0
+1311,2024-08-26,104,Olive Oil 750ml,Grocery,300.0,1,300.0,2051,Kerala,Cash,Delivered,5.0
+1312,2023-01-29,103,Brown Sugar 500g,Grocery,200.0,1,200.0,2011,Delhi,Credit Card,Delivered,5.0
+1313,2024-02-11,107,Eggs 12pcs,Dairy,48.0,3,144.0,2101,Tamil Nadu,Cash,Delivered,5.0
+1314,2024-02-09,105,Shampoo 250ml,Personal Care,360.0,3,1080.0,2164,Delhi,Credit Card,Delivered,5.0
+1315,2023-07-01,101,Whole Wheat Flour 1kg,Grocery,150.0,1,150.0,2001,Kerala,NetBanking,Delivered,5.0
+1316,2025-04-10,104,Olive Oil 750ml,Grocery,120.0,4,480.0,2115,Delhi,Debit Card,Delivered,5.0
+1317,2025-07-24,106,Toothpaste 100g,Personal Care,120.0,4,480.0,2053,Kerala,Cash,Delivered,5.0
+1318,2023-05-17,103,Brown Sugar 500g,Grocery,300.0,2,600.0,2057,Delhi,Cash,Delivered,5.0
+1319,2023-04-27,107,Eggs 12pcs,Dairy,360.0,1,360.0,2035,Delhi,UPI,Delivered,4.0
+1320,2024-07-28,110,Mineral Water 1.5L,Beverages,96.0,1,96.0,2090,Kerala,UPI,Delivered,2.0
+1321,2023-03-16,109,Chocolates 200g,Snacks,144.0,1,144.0,2135,Karnataka,Debit Card,Cancelled,4.0
+1322,2023-07-29,109,Chocolates 200g,Snacks,60.0,1,60.0,2017,Delhi,NetBanking,Delivered,5.0
+1323,2024-10-01,103,Brown Sugar 500g,Grocery,60.0,3,180.0,2152,Delhi,Credit Card,Delayed,5.0
+1324,2023-01-25,108,Rice Basmati 5kg,Grocery,150.0,2,300.0,2198,Karnataka,Cash,Delivered,5.0
+1325,2024-05-15,102,Fresh Milk 1L,Dairy,240.0,1,240.0,2177,Delhi,UPI,Delivered,5.0
+1326,2023-10-12,102,Fresh Milk 1L,Dairy,144.0,1,144.0,2156,Tamil Nadu,Debit Card,Delivered,4.0
+1327,2025-05-31,108,Rice Basmati 5kg,Grocery,100.0,1,100.0,2199,Maharashtra,Credit Card,Delayed,1.0
+1328,2025-04-28,110,Mineral Water 1.5L,Beverages,96.0,1,96.0,2177,Delhi,Debit Card,Delivered,4.0
+1329,2023-05-28,101,Whole Wheat Flour 1kg,Grocery,120.0,3,360.0,2063,Delhi,UPI,Delivered,3.0
+1330,2024-12-01,102,Fresh Milk 1L,Dairy,240.0,1,240.0,2071,Maharashtra,UPI,Delivered,5.0
+1331,2025-02-07,106,Toothpaste 100g,Personal Care,180.0,1,180.0,2123,Delhi,Cash,Delivered,5.0
+1332,2025-08-09,108,Rice Basmati 5kg,Grocery,60.0,3,180.0,2032,Gujarat,Credit Card,Returned,5.0
+1333,2024-10-31,101,Whole Wheat Flour 1kg,Grocery,40.0,2,80.0,2030,Maharashtra,Debit Card,Delivered,5.0
+1334,2023-05-24,105,Shampoo 250ml,Personal Care,240.0,1,240.0,2018,Maharashtra,NetBanking,Cancelled,4.0
+1335,2025-02-07,104,Olive Oil 750ml,Grocery,60.0,4,240.0,2194,Delhi,UPI,Delivered,5.0
+1336,2024-05-16,102,Fresh Milk 1L,Dairy,48.0,1,48.0,2166,Kerala,Debit Card,Delivered,5.0
+1337,2025-08-04,110,Mineral Water 1.5L,Beverages,96.0,1,96.0,2008,Maharashtra,Credit Card,Delivered,5.0
+1338,2025-07-13,109,Chocolates 200g,Snacks,180.0,4,720.0,2131,Gujarat,Credit Card,Delivered,5.0
+1339,2025-03-10,108,Rice Basmati 5kg,Grocery,300.0,1,300.0,2110,Kerala,Debit Card,Delivered,5.0
+1340,2023-06-11,107,Eggs 12pcs,Dairy,48.0,4,192.0,2055,Karnataka,Cash,Delivered,4.0
+1341,2024-04-20,102,Fresh Milk 1L,Dairy,60.0,4,240.0,2093,Gujarat,UPI,Delivered,5.0
+1342,2023-01-08,107,Eggs 12pcs,Dairy,48.0,1,48.0,2067,Maharashtra,Debit Card,Delayed,4.0
+1343,2024-03-18,108,Rice Basmati 5kg,Grocery,200.0,3,600.0,2067,Karnataka,UPI,Delivered,5.0
+1344,2023-02-20,103,Brown Sugar 500g,Grocery,40.0,2,80.0,2008,Delhi,Cash,Delivered,
+1345,2024-02-22,104,Olive Oil 750ml,Grocery,60.0,3,180.0,2032,Karnataka,Credit Card,Returned,5.0
+1346,2023-04-30,101,Whole Wheat Flour 1kg,Grocery,80.0,2,160.0,2165,Kerala,Credit Card,Delivered,5.0
+1347,2023-07-01,110,Mineral Water 1.5L,Beverages,120.0,3,360.0,2055,Delhi,NetBanking,Delayed,5.0
+1348,2025-08-01,102,Fresh Milk 1L,Dairy,60.0,4,240.0,2074,Tamil Nadu,NetBanking,Delayed,4.0
+1349,2025-02-13,107,Eggs 12pcs,Dairy,48.0,4,192.0,2085,Delhi,UPI,Delivered,4.0
+1350,2023-05-27,106,Toothpaste 100g,Personal Care,72.0,2,144.0,2029,Maharashtra,Cash,Delivered,4.0
+1351,2024-11-30,103,Brown Sugar 500g,Grocery,50.0,1,50.0,2129,Tamil Nadu,Credit Card,Delivered,4.0
+1352,2025-03-25,107,Eggs 12pcs,Dairy,120.0,2,240.0,2011,Kerala,Cash,Delivered,5.0
+1353,2025-01-15,102,Fresh Milk 1L,Dairy,60.0,1,60.0,2119,Maharashtra,Debit Card,Delivered,5.0
+1354,2024-01-31,110,Mineral Water 1.5L,Beverages,96.0,2,192.0,2037,Maharashtra,Debit Card,Delivered,5.0
+1355,2025-07-22,104,Olive Oil 750ml,Grocery,250.0,1,250.0,2053,Karnataka,Cash,Delivered,4.0
+1356,2025-07-28,107,Eggs 12pcs,Dairy,72.0,2,144.0,2086,Gujarat,UPI,Delivered,5.0
+1357,2023-12-30,102,Fresh Milk 1L,Dairy,240.0,1,240.0,2158,Maharashtra,Credit Card,Delivered,5.0
+1358,2024-09-23,104,Olive Oil 750ml,Grocery,150.0,1,150.0,2114,Maharashtra,Credit Card,Delivered,5.0
+1359,2023-04-25,106,Toothpaste 100g,Personal Care,48.0,3,144.0,2009,Kerala,UPI,Delivered,5.0
+1360,2024-07-05,101,Whole Wheat Flour 1kg,Grocery,50.0,2,100.0,2025,Maharashtra,Credit Card,Delivered,3.0
+1361,2023-12-25,106,Toothpaste 100g,Personal Care,300.0,3,900.0,2022,Maharashtra,NetBanking,Delivered,5.0
+1362,2023-08-23,102,Fresh Milk 1L,Dairy,96.0,1,96.0,2186,Maharashtra,UPI,Delivered,4.0
+1363,2023-01-29,103,Brown Sugar 500g,Grocery,50.0,4,200.0,2037,Karnataka,Debit Card,Delivered,5.0
+1364,2023-03-16,102,Fresh Milk 1L,Dairy,144.0,1,144.0,2128,Kerala,NetBanking,Returned,5.0
+1365,2025-05-02,105,Shampoo 250ml,Personal Care,360.0,2,720.0,2041,Maharashtra,Credit Card,Delivered,5.0
+1366,2025-07-22,106,Toothpaste 100g,Personal Care,60.0,1,60.0,2165,Delhi,UPI,Delivered,5.0
+1367,2023-06-02,103,Brown Sugar 500g,Grocery,120.0,1,120.0,2076,Gujarat,Credit Card,Delivered,5.0
+1368,2024-08-21,110,Mineral Water 1.5L,Beverages,120.0,1,120.0,2086,Kerala,Debit Card,Delivered,2.0
+1369,2023-01-27,103,Brown Sugar 500g,Grocery,250.0,4,1000.0,2134,Kerala,Cash,Delivered,5.0
+1370,2024-12-31,101,Whole Wheat Flour 1kg,Grocery,200.0,1,200.0,2012,Kerala,Credit Card,Delivered,4.0
+1371,2025-01-18,101,Whole Wheat Flour 1kg,Grocery,250.0,2,500.0,2199,Gujarat,Debit Card,Delivered,3.0
+1372,2025-06-24,102,Fresh Milk 1L,Dairy,48.0,1,48.0,2190,Delhi,NetBanking,Delayed,3.0
+1373,2024-09-25,109,Chocolates 200g,Snacks,60.0,2,120.0,2054,Maharashtra,Credit Card,Delayed,5.0
+1374,2023-12-29,103,Brown Sugar 500g,Grocery,40.0,1,40.0,2181,Karnataka,Debit Card,Delayed,3.0
+1375,2023-10-19,103,Brown Sugar 500g,Grocery,60.0,1,60.0,2029,Tamil Nadu,NetBanking,Delivered,3.0
+1376,2023-05-29,107,Eggs 12pcs,Dairy,240.0,1,240.0,2164,Kerala,Cash,Delivered,5.0
+1377,2023-04-23,102,Fresh Milk 1L,Dairy,180.0,1,180.0,2054,Delhi,Credit Card,Delivered,5.0
+1378,2023-04-08,103,Brown Sugar 500g,Grocery,150.0,4,600.0,2152,Tamil Nadu,UPI,Delivered,3.0
+1379,2025-01-27,102,Fresh Milk 1L,Dairy,144.0,2,288.0,2056,Maharashtra,Cash,Delivered,4.0
+1380,2023-10-16,103,Brown Sugar 500g,Grocery,300.0,2,600.0,2148,Maharashtra,Credit Card,Delivered,3.0
+1381,2024-04-11,102,Fresh Milk 1L,Dairy,72.0,2,144.0,2081,Kerala,UPI,Delivered,4.0
+1382,2024-05-21,105,Shampoo 250ml,Personal Care,60.0,1,60.0,2154,Maharashtra,Debit Card,Cancelled,5.0
+1383,2024-03-25,102,Fresh Milk 1L,Dairy,120.0,1,120.0,2040,Kerala,UPI,Delivered,4.0
+1384,2023-01-17,105,Shampoo 250ml,Personal Care,48.0,1,48.0,2061,Gujarat,NetBanking,Delivered,5.0
+1385,2025-07-27,102,Fresh Milk 1L,Dairy,240.0,1,240.0,2025,Gujarat,Credit Card,Returned,4.0
+1386,2023-02-08,102,Fresh Milk 1L,Dairy,72.0,1,72.0,2108,Karnataka,Cash,Delivered,5.0
+1387,2023-06-21,106,Toothpaste 100g,Personal Care,72.0,3,216.0,2102,Gujarat,Cash,Delivered,4.0
+1388,2025-05-15,105,Shampoo 250ml,Personal Care,72.0,2,144.0,2044,Tamil Nadu,Debit Card,Delivered,4.0
+1389,2025-08-12,107,Eggs 12pcs,Dairy,48.0,2,96.0,2017,Delhi,Cash,Delivered,3.0
+1390,2023-11-26,110,Mineral Water 1.5L,Beverages,300.0,4,1200.0,2047,Kerala,Cash,Delivered,5.0
+1391,2023-01-12,108,Rice Basmati 5kg,Grocery,200.0,1,200.0,2008,Tamil Nadu,Debit Card,Delivered,5.0
+1392,2024-10-22,107,Eggs 12pcs,Dairy,48.0,4,192.0,2118,Tamil Nadu,Cash,Delivered,5.0
+1393,2024-12-10,102,Fresh Milk 1L,Dairy,240.0,1,240.0,2089,Gujarat,Cash,Delivered,3.0
+1394,2023-09-25,108,Rice Basmati 5kg,Grocery,300.0,1,300.0,2109,Kerala,Cash,Delivered,3.0
+1395,2024-06-21,108,Rice Basmati 5kg,Grocery,300.0,4,1200.0,2145,Maharashtra,NetBanking,Delivered,4.0
+1396,2025-07-07,105,Shampoo 250ml,Personal Care,360.0,2,720.0,2086,Tamil Nadu,Credit Card,Delivered,5.0
+1397,2023-09-07,109,Chocolates 200g,Snacks,180.0,3,540.0,2079,Gujarat,UPI,Delivered,5.0
+1398,2024-09-20,106,Toothpaste 100g,Personal Care,180.0,1,180.0,2115,Maharashtra,Debit Card,Cancelled,4.0
+1399,2024-11-18,105,Shampoo 250ml,Personal Care,240.0,1,240.0,2059,Gujarat,Debit Card,Delivered,3.0
+1400,2024-12-27,102,Fresh Milk 1L,Dairy,60.0,4,240.0,2116,Gujarat,UPI,Delivered,4.0
