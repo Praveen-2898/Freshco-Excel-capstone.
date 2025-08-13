@@ -3,7 +3,7 @@
 
 **Project type:** Capstone (Excel-centered)  
 **Author:** Praveen M (GitHub: Praveen-2898)  
-**Contact:** steohanpraveen42@gmail.com · https://www.linkedin.com/in/praveenm755/
+**Contact:** stephanpraveen42@gmail.com · https://www.linkedin.com/in/praveenm755/
 
 ---
 
